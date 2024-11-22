@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  height: 100vh;
+  background-color: orange;
+}
+.btn,
+button {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: lawngreen;
+  border: 2px solid lawngreen;
+}
+button {
+  border: black;
+  background-color: #000;
+}
